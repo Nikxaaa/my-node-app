@@ -1,0 +1,26 @@
+ОТЧЁТ СИНХРОНИЗАЦИИ
+Вариант: 5
+Дата: 26.11.2026, 19:38:19
+
+Совпадают: 12
+Добавлены: 0
+Удалены: 0
+Изменены: 12
+
+Добавленные файлы:
+
+Удалённые файлы:
+
+Изменённые файлы:
+config.json
+data.json
+document.txt
+large.js
+large.txt
+manifest.json
+notes.txt
+readme.txt
+report.txt
+script.js
+server.js
+users.json

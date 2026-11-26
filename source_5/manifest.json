@@ -1,0 +1,117 @@
+[
+  {
+    "name": "document.txt",
+    "extension": "txt",
+    "size": 2000
+  },
+  {
+    "name": "notes.txt",
+    "extension": "txt",
+    "size": 5000
+  },
+  {
+    "name": "readme.txt",
+    "extension": "txt",
+    "size": 3000
+  },
+  {
+    "name": "script.js",
+    "extension": "js",
+    "size": 4000
+  },
+  {
+    "name": "server.js",
+    "extension": "js",
+    "size": 6000
+  },
+  {
+    "name": "config.json",
+    "extension": "json",
+    "size": 3000
+  },
+  {
+    "name": "users.json",
+    "extension": "json",
+    "size": 5000
+  },
+  {
+    "name": "data.json",
+    "extension": "json",
+    "size": 7000
+  },
+  {
+    "name": "photo.jpg",
+    "extension": "jpg",
+    "size": 10000
+  },
+  {
+    "name": "picture.png",
+    "extension": "png",
+    "size": 12000
+  },
+  {
+    "name": "animation.gif",
+    "extension": "gif",
+    "size": 8000
+  },
+  {
+    "name": "report.txt",
+    "extension": "txt",
+    "size": 20000
+  },
+  {
+    "name": "large.txt",
+    "extension": "txt",
+    "size": 1100000
+  },
+  {
+    "name": "large.js",
+    "extension": "js",
+    "size": 1200000
+  },
+  {
+    "name": "image2.jpg",
+    "extension": "jpg",
+    "size": 15000
+  },
+  {
+    "name": "style.css",
+    "extension": "css",
+    "size": 5000
+  },
+  {
+    "name": "page.html",
+    "extension": "html",
+    "size": 7000
+  },
+  {
+    "name": "table.csv",
+    "extension": "csv",
+    "size": 9000
+  },
+  {
+    "name": "icon.png",
+    "extension": "png",
+    "size": 4000
+  },
+  {
+    "name": "data.xml",
+    "extension": "xml",
+    "size": 6000
+  },
+  {
+    "name": "documents/inside_documents.txt",
+    "extension": ".txt",
+    "size": 42
+  },
+  {
+    "name": "scripts/inside_scripts.txt",
+    "extension": ".txt",
+    "size": 40
+  },
+  {
+    "name": "images/inside_images.txt",
+    "extension": ".txt",
+    "size": 39
+  }
+]
