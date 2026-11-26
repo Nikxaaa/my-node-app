@@ -1,0 +1,17 @@
+{
+  "name": "lab23-dao",
+  "version": "1.0.0",
+  "description": "DAO MongoDB and Koa REST API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@koa/router": "^13.1.1",
+    "dotenv": "^16.6.1",
+    "koa": "^2.16.4",
+    "koa-bodyparser": "^4.4.1",
+    "mongodb": "^6.22.0",
+    "ws": "^8.23.0"
+  }
+}
