@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "email": "admin@library.local",
+    "password": "$2b$10$xn1aWuxrFzmydbT2/uLx3O/PPbVIzvr/jv4bwpGuJ3wJI8zQn7Z8u",
+    "name": "Администратор",
+    "role": "admin"
+  },
+  {
+    "id": 2,
+    "email": "veronika@test.com",
+    "password": "$2b$10$WZtHrKFeUn9AA806LfWis.q4oHFrG.xKIDxi0OuYzgVMEXbV.Hwga",
+    "name": "Грудская Вероника",
+    "role": "user"
+  }
+]
