@@ -1,0 +1,140 @@
+{
+  "directory": "C:\\Users\\96\\my-node-app\\project_5",
+  "variant": 5,
+  "ignoredFilesLargerThan": "10 MB",
+  "totalFiles": 10,
+  "totalFolders": 10,
+  "totalSize": {
+    "bytes": 417,
+    "kb": "0.41",
+    "mb": "0.00"
+  },
+  "extensions": {
+    ".txt": [
+      {
+        "name": "info.txt",
+        "path": "data\\info.txt",
+        "extension": ".txt",
+        "size": 23
+      },
+      {
+        "name": "info.txt",
+        "path": "data\\input\\info.txt",
+        "extension": ".txt",
+        "size": 38
+      },
+      {
+        "name": "info.txt",
+        "path": "data\\results\\info.txt",
+        "extension": ".txt",
+        "size": 40
+      },
+      {
+        "name": "info.txt",
+        "path": "src\\components\\1\\info.txt",
+        "extension": ".txt",
+        "size": 42
+      },
+      {
+        "name": "info.txt",
+        "path": "src\\components\\2\\info.txt",
+        "extension": ".txt",
+        "size": 42
+      },
+      {
+        "name": "info.txt",
+        "path": "src\\components\\3\\info.txt",
+        "extension": ".txt",
+        "size": 42
+      },
+      {
+        "name": "info.txt",
+        "path": "src\\components\\info.txt",
+        "extension": ".txt",
+        "size": 52
+      },
+      {
+        "name": "info.txt",
+        "path": "src\\info.txt",
+        "extension": ".txt",
+        "size": 38
+      },
+      {
+        "name": "info.txt",
+        "path": "src\\modules\\info.txt",
+        "extension": ".txt",
+        "size": 44
+      },
+      {
+        "name": "info.txt",
+        "path": "src\\utils\\info.txt",
+        "extension": ".txt",
+        "size": 56
+      }
+    ]
+  },
+  "largestFiles": [
+    {
+      "name": "info.txt",
+      "path": "src\\utils\\info.txt",
+      "extension": ".txt",
+      "size": 56
+    },
+    {
+      "name": "info.txt",
+      "path": "src\\components\\info.txt",
+      "extension": ".txt",
+      "size": 52
+    },
+    {
+      "name": "info.txt",
+      "path": "src\\modules\\info.txt",
+      "extension": ".txt",
+      "size": 44
+    },
+    {
+      "name": "info.txt",
+      "path": "src\\components\\1\\info.txt",
+      "extension": ".txt",
+      "size": 42
+    },
+    {
+      "name": "info.txt",
+      "path": "src\\components\\2\\info.txt",
+      "extension": ".txt",
+      "size": 42
+    }
+  ],
+  "smallestFiles": [
+    {
+      "name": "info.txt",
+      "path": "data\\info.txt",
+      "extension": ".txt",
+      "size": 23
+    },
+    {
+      "name": "info.txt",
+      "path": "data\\input\\info.txt",
+      "extension": ".txt",
+      "size": 38
+    },
+    {
+      "name": "info.txt",
+      "path": "src\\info.txt",
+      "extension": ".txt",
+      "size": 38
+    },
+    {
+      "name": "info.txt",
+      "path": "data\\results\\info.txt",
+      "extension": ".txt",
+      "size": 40
+    },
+    {
+      "name": "info.txt",
+      "path": "src\\components\\1\\info.txt",
+      "extension": ".txt",
+      "size": 42
+    }
+  ]
+}
