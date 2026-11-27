@@ -1,0 +1,6 @@
+[2026-11-26T16:27:23.550Z] server:started: {"port":3000}
+[2026-11-26T16:27:32.814Z] server:started: {"port":3000}
+[2026-11-26T16:27:34.028Z] request:received: {"url":"/order/42?utm_source=chatgpt.com","method":"GET"}
+[2026-11-26T16:27:34.115Z] request:received: {"url":"/favicon.ico","method":"GET"}
+[2026-11-26T16:27:42.828Z] server:stopped: "Сервер остановлен"
+[2026-11-26T16:28:10.686Z] server:started: {"port":3000}
